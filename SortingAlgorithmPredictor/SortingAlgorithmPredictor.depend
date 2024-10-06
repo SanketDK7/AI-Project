@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1728236883 source:f:\dsa\ai project\sortingalgorithmpredictor\src\data_analysis.cpp
+	"../include/data_analysis.h"
+
+1728236508 f:\dsa\ai project\sortingalgorithmpredictor\include\data_analysis.h
+
+1728236551 source:f:\dsa\ai project\sortingalgorithmpredictor\src\recommendation_system.cpp
+	"../include/recommendation_system.h"
+
+1728236824 f:\dsa\ai project\sortingalgorithmpredictor\include\recommendation_system.h
+	"data_analysis.h"
+	<string>
+
+1728236354 source:f:\dsa\ai project\sortingalgorithmpredictor\src\algorithms.cpp
+	"../include/algorithms.h"
+	<algorithm>
+
+1728235949 f:\dsa\ai project\sortingalgorithmpredictor\include\algorithms.h
+
+1728236132 source:f:\dsa\ai project\sortingalgorithmpredictor\src\utility.cpp
+	"../include/utility.h"
+
+1728235988 f:\dsa\ai project\sortingalgorithmpredictor\include\utility.h
+
+1728236837 source:f:\dsa\ai project\sortingalgorithmpredictor\main.cpp
+	<iostream>
+	"include/data_analysis.h"
+	"include/algorithms.h"
+	"include/recommendation_system.h"
+	"include/utility.h"
+
