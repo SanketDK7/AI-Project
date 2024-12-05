@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1729541098 source:f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"../include/data_analysis.h"
+	"../include/algorithms.h"
+	"../include/recommendation_system.h"
+	"../include/utility.h"
+	"../include/complexity_analysis.h"
+	<chrono>
+	<string>
+
+1729453668 f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\include\data_analysis.h
+	<vector>
+	<string>
+
+1729370122 f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\include\algorithms.h
+	<vector>
+
+1728585024 f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\include\recommendation_system.h
+	"data_analysis.h"
+	<string>
+
+1728585038 f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\include\utility.h
+
+1729336513 f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\include\complexity_analysis.h
+	<string>
+
+1729369769 source:f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\src\algorithms.cpp
+	"../include/algorithms.h"
+	"../include/data_analysis.h"
+	<algorithm>
+	<iostream>
+	<numeric>
+
+1729336492 source:f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\src\complexity_analysis.cpp
+	"../include/complexity_analysis.h"
+	<iostream>
+
+1729492647 source:f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\src\data_analysis.cpp
+	"../include/data_analysis.h"
+	<vector>
+	<string>
+	<algorithm>
+	<numeric>
+	<iostream>
+
+1729491905 source:f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\src\recommendation_system.cpp
+	"../include/recommendation_system.h"
+	"../include/pso.h"
+	"../include/complexity_analysis.h"
+	<iostream>
+
+1728585180 source:f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\src\utility.cpp
+	"../include/algorithms.h"
+
+1729499632 source:f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\src\pso.cpp
+	"../include/pso.h"
+	"../include/complexity_analysis.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1729336467 f:\vit notes\sem 5\ai\project\sorting_algo_recommendation_using_pso\include\pso.h
+	"data_analysis.h"
+	<string>
+	<vector>
+
